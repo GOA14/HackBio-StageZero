@@ -22,7 +22,7 @@ Treating visualisation as not important or as not part of the pipeline, it negat
 
 In bioinformatics, R is commonly used for visualisation due to the fact that plots can be generated completely using code, making it possible to reproduce results when the pipeline is rerun Wickham, 2016). Treating visualisation as part of the pipeline, and not just as a simple task, using clear and structured code will help produce clearer, more reliable, and more reproducible results.
 
-REFERENCES
+# REFERENCES
 
 Baykal, P. I. (2024). Genomic reproducibility in the bioinformatics era. Genome Biology.
 
